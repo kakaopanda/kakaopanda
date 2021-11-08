@@ -20,5 +20,7 @@
 
 
 <a href = "https://github.com/devxb/ReadmePlants">
- <img src = "https://readmeplants.com/get?name=Devxb&plant=blossomTree&planet=eclipse&background=black"/>
+
+ <img src = "https://readmeplants.com/get?name=kakaopanda&plant=blossomTree&planet=eclipse&background=black"/>
+
 </a>

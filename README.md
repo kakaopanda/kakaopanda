@@ -23,6 +23,6 @@
   BAEK JOON Ranking
 </h2>
  
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kakaopanda" width="800px">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kakaopanda">
 
 

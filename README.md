@@ -16,7 +16,7 @@
 </h2>
             
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakaopanda&show_icons=true&theme=github_dark)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakaopanda&count_private=true&langs_count=3&theme=github_dark" height="100px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakaopanda&count_private=true&langs_count=3&theme=github_dark" height="180px">
 
  
  <h2>

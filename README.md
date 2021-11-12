@@ -24,6 +24,5 @@
  
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kakaopanda">
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kakaopanda)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=kakaopanda&count_private=true&langs_count=3&theme=github_dark)>

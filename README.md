@@ -17,12 +17,11 @@
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=kakaopanda&show_icons=true&theme=github_dark" height="195px" width="400px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakaopanda&count_private=true&langs_count=4&theme=github_dark" height="195px">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kakaopanda">
 </div>
  
  <h2>
   Coding Test Exercise
 </h2>
  
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kakaopanda">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kakao_panda@naver.com">

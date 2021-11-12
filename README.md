@@ -25,4 +25,4 @@
  
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kakaopanda">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kakaopanda">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kakao_panda@naver.com">

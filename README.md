@@ -23,5 +23,3 @@
   Coding Test Exercise
 </h2>
  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kakaopanda">
-
-?

@@ -15,7 +15,7 @@
   GitHub Stats
 </h2>
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=kakaopanda&show_icons=true&theme=github_dark" width="500px">
+<img src="https://github-readme-stats.vercel.app/api?username=kakaopanda&show_icons=true&theme=github_dark" width="600px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakaopanda&count_private=true&langs_count=4&theme=github_dark">
 </div>
  

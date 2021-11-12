@@ -17,13 +17,12 @@
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=kakaopanda&show_icons=true&theme=github_dark">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakaopanda&count_private=true&langs_count=3&theme=github_dark" height="195px">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kakaopanda" width="300px">
 </div>
  
  <h2>
   BAEK JOON Ranking
 </h2>
  
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kakaopanda" width="200px">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kakaopanda" width="800px">
 
 

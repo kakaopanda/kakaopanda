@@ -15,8 +15,8 @@
   GitHub Stats
 </h2>
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=kakaopanda&show_icons=true&theme=github_dark" width="580px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakaopanda&count_private=true&langs_count=4&theme=github_dark" height="230px">
+<img src="https://github-readme-stats.vercel.app/api?username=kakaopanda&show_icons=true&theme=github_dark" width="560px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakaopanda&count_private=true&langs_count=4&theme=github_dark" height="220px">
 </div>
  
  <h2>

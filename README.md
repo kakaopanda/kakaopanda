@@ -25,4 +25,4 @@
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kakaopanda">
 
 
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=kakaopanda&count_private=true&langs_count=3&theme=github_dark)>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakaopanda&count_private=true&langs_count=3&theme=github_dark">

@@ -22,7 +22,7 @@
   BAEK JOON Ranking
 </h2>
  
-<img src="http://mazassumnida.wtf/api/generate_badge?boj=kakaopanda">
+<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kakaopanda">
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={userid})](https://solved.ac/kakaopanda)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={userid})](https://solved.ac/kakaopanda)
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj={userid})](https://solved.ac/kakaopanda)

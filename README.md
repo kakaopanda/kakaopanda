@@ -23,3 +23,6 @@
 </h2>
  
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kakaopanda">
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+

@@ -11,15 +11,16 @@
   <img src="https://img.shields.io/badge/CSS3-125e95?style=flat-square&logo=CSS3&logoColor=white"/>
   <br>
 </div>
+
+<h2>
+  Coding Test Exercise
+</h2>
+ <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kakaopanda">
+ 
 <h2>
   GitHub Stats
 </h2>
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=kakaopanda&show_icons=true&theme=github_dark" width="560px">
+<img src="https://github-readme-stats.vercel.app/api?username=kakaopanda&show_icons=true&theme=github_dark" width="550px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakaopanda&count_private=true&langs_count=4&theme=github_dark" height="233px">
 </div>
- 
- <h2>
-  Coding Test Exercise
-</h2>
- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kakaopanda">

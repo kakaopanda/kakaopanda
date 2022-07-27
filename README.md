@@ -23,7 +23,8 @@
 <h2>
   Coding Test Exercise
 </h2>
+<div>
  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kakaopanda">
  <img src="http://github-readme-streak-stats.herokuapp.com?user=kakaopanda&theme=highcontrast">
- 
+<div>
  

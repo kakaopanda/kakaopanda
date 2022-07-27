@@ -25,6 +25,7 @@
 </h2>
 <div>
  <img src="http://github-readme-streak-stats.herokuapp.com?user=kakaopanda" width="450px">
+  
  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kakaopanda" width="365px">
 <div>
  

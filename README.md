@@ -24,6 +24,6 @@
   Coding Test Exercise
 </h2>
  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kakaopanda">
- 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kakaopanda&theme=highcontrast)](https://git.io/streak-stats)
  
  

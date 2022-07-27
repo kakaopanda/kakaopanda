@@ -24,7 +24,7 @@
   Coding Test Exercise
 </h2>
 <div>
- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kakaopanda">
- <img src="http://github-readme-streak-stats.herokuapp.com?user=kakaopanda&theme=highcontrast" width="550px">
+ <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kakaopanda" width="350px">
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=kakaopanda&theme=highcontrast" width="350px">
 <div>
  

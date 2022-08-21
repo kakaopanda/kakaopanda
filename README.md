@@ -28,5 +28,5 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=kakaopanda&border=00000035" width="450px">
 <div>
 <div>
-  <img src="https://cf.leed.at?id={kakaopanda}">
+  <img src="https://cf.leed.at?id=kakaopanda">
 <div>

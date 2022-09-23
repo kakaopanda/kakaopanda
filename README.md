@@ -12,7 +12,7 @@
   <br>
 </div>
 
-<h2>
+<h2> 
   GitHub Stats
 </h2>
 <div>
@@ -26,4 +26,4 @@
 <div>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kakaopanda" width="365px">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=kakaopanda&border=00000035" width="450px">
-<div>
+<div> 

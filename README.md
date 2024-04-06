@@ -19,6 +19,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kakaopanda&show_icons=true&theme=github_dark" width="550px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakaopanda&exclude_repo=CapstoneDesign&count_private=true&langs_count=4&theme=github_dark" height="230px">
 </div>
+<div>
+  [![코드트리|실력진단-kakaopanda](https://banner.codetree.ai/v1/banner/kakaopanda)](https://www.codetree.ai/profiles/kakaopanda)
+</div>
 
 <h2>
   Coding Test Exercise

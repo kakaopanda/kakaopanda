@@ -16,7 +16,7 @@
   GitHub Stats
 </h2>
 <div>
-  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=kakaopanda" width="550px">
+  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=kakaopanda" width="750px">
   <img src="https://stats.hyo.dev/api/github-trophies?login=kakaopanda" height="230px">
 </div>
 

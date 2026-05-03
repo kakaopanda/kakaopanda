@@ -16,8 +16,8 @@
   GitHub Stats
 </h2>
 <div>
-  <img src="https://stats.hyo.dev/api/github-stats?login=kakaopanda" width="500px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakaopanda&exclude_repo=CapstoneDesign&count_private=true&langs_count=4&theme=github_dark" height="200px">
+  <img src="https://stats.hyo.dev/api/github-stats?login=kakaopanda" width="530px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakaopanda&exclude_repo=CapstoneDesign&count_private=true&langs_count=4&theme=github_dark" height="220px">
 </div>
 
 <h2>

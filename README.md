@@ -16,7 +16,7 @@
   GitHub Stats
 </h2>
 <div>
-  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=kakaopanda">
+  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=kakaopanda" width="550px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakaopanda&exclude_repo=CapstoneDesign&count_private=true&langs_count=4&theme=github_dark" height="230px">
 </div>
 
